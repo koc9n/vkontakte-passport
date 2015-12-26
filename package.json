@@ -1,6 +1,6 @@
 {
   "name": "vkontakte-passport",
-  "version": "1.2.10",
+  "version": "1.2.11",
   "description": "Module for vkontakte Strategy using passport auth. Should be similar like existing facebook-passport module.",
   "main": "./lib",
   "dependencies": {

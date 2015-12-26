@@ -1,0 +1,51 @@
+{
+  "name": "vkontakte-passport",
+  "version": "1.2.9",
+  "description": "Module for vkontakte Strategy using passport auth. Should be similar like existing facebook-passport module.",
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vkontakte",
+    "vk",
+    "passport",
+    "auth",
+    "authentication",
+    "strategy"
+  ],
+  "author": {
+    "name": "koc9n",
+    "email": "kos.mironchik@gmail.com"
+  },
+  "license": "ISC",
+  "_id": "vkontakte-passport@1.1.9",
+  "_shasum": "f024513ff04bc3d49cdd3e1050124a99ef61564e",
+  "_from": "vkontakte-passport@*",
+  "_npmVersion": "2.14.5",
+  "_nodeVersion": "5.3.0",
+  "_npmUser": {
+    "name": "kos.mironchik",
+    "email": "kos.mironchik@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/koc9n/vkontakte-passport.git"
+  },
+  "dist": {
+    "shasum": "f024513ff04bc3d49cdd3e1050124a99ef61564e",
+    "tarball": "http://registry.npmjs.org/vkontakte-passport/-/vkontakte-passport-1.2.9.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "kos.mironchik",
+      "email": "kos.mironchik@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/vkontakte-passport/-/vkontakte-passport-1.2.9.tgz",
+  "readme": "ERROR: No README data found!"
+}

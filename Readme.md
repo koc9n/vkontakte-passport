@@ -20,11 +20,11 @@ By example to use this plugin in own sails project you should add some of this t
             }
       }
       
-###Note 1
+### Note 1
 You need to change your *services -> passport.js*
 to set to your User model needed profile fields.
 
-###Note 2
+### Note 2
 You can generate basic passport auth structure for sails app using sails-generate-auth module.
                 
     npm install sails-generate-auth
